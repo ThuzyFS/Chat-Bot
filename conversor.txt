@@ -1,0 +1,5 @@
+1. Ao receber um número (x), você irá analisar as potencias do número dois uma a uma;
+2. Ao encontrar a potencia que mais se aproxima do número (x), subtraia este número (x)
+pela potencia do número dois;
+3. Ao obter o resultado da subtração do número (x) pela potencia do número dois, repita
+o passo 2. em diante.
